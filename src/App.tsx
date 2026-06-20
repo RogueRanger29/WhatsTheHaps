@@ -5,6 +5,7 @@ import Signinform from './_auth/forms/SigninForm'
 import Signupform from './_auth/forms/SignupForm'
 import { Home } from './_root/pages'
 import './globals.css'
+import { Toaster } from './components/ui/toaster'
 
 const App = () => {
   return (
@@ -20,6 +21,7 @@ const App = () => {
                 <Route index element={<Home/>}/>
             </Route>
         </Routes>
+        <Toaster />
     </main>
   )
 }

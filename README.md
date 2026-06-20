@@ -1,3 +1,4 @@
-This is a **work-in-progress** social media app!
+**THIS PROJECT WILL BE ON PAUSE FOR SOME TIME**, I've realised I have begun learning React and TypeScript with a project to complex, so I have decided to take a break from this and work on my own, much simpler, project. However, I will keep this repo up and resume this once, I get enough experience.
+
 I am learning the process of Front-End Development with React along with some usage of backend made by Appwrite
 I am using the code from a tutorial by **JavaScript Mastery** hence the project will look very similar to his. However I hope to make changes in the near future after completion to practice all that I have learnt
